@@ -37,6 +37,14 @@
     "react-test-renderer": "19.1.0",
     "typescript": "^5.8.3"
   },
+  "resolutions": {
+    "metro": "0.83.1",
+    "metro-config": "0.83.1",
+    "metro-core": "0.83.1",
+    "metro-source-map": "0.83.1",
+    "metro-symbolicate": "0.83.1",
+    "metro-runtime": "0.83.1"
+  },
   "engines": {
     "node": ">=20"
   }
